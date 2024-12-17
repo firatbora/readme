@@ -1,5 +1,5 @@
 # readme
-Cybersecurity
+About Me
 <h1 align="center">Hi 👋, I'm Firat Bora</h1>
 <h3 align="center">Welcome to my GitHub profile! I am passionate about Cybersecurity, with a focus on ethical hacking, network security, and digital privacy.</h3>
 
